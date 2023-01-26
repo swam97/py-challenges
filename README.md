@@ -1,2 +1,2 @@
-# py-challenges
-List of python challenges
+# Welcome Coders
+Here is a list of python challenges with possible solutions
